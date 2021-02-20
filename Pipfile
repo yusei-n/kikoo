@@ -12,3 +12,4 @@ autopep8 = "*"
 
 [requires]
 python_version = "3.9"
+git push -u origin main
